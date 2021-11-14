@@ -1,0 +1,14 @@
+notification:
+    resource: "@NotificationBundle/Controller/"
+    type:     annotation
+    prefix:   /notification
+
+healthstatus:
+    resource: "@HealthstatusBundle/Controller/"
+    type:     annotation
+    prefix:   /healthstatus
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+    prefix:   /

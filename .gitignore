@@ -1,0 +1,9 @@
+app/config/config.php
+var/*
+.idea/*
+.settings/*
+.buildpath
+.project
+phpunit.xml.dist
+/nbproject
+/vendor
